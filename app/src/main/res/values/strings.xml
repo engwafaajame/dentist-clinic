@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dental Care</string>
+    
+    <!-- Firebase Configuration -->
+    <string name="firebase_database_url">https://dental-care-6b2d5.firebaseio.com</string>
+    <string name="firebase_project_id">dental-care-6b2d5</string>
+    
+    <!-- App Strings -->
+    <string name="welcome_message">Welcome to Dental Care</string>
+    <string name="tagline">Your oral health, our priority</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="find_doctors">Find Doctors</string>
+    <string name="upcoming_appointments">Upcoming Appointments</string>
+    <string name="popular_doctors">Popular Doctors</string>
+    <string name="see_all">See All</string>
+    <string name="no_appointments">No upcoming appointments</string>
+    <string name="no_doctors">No doctors found</string>
+    <string name="appointments">Appointments</string>
+    <string name="find_doctors_title">Find Doctors</string>
+    <string name="search_doctors">Search doctors…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_general">General</string>
+    <string name="filter_ortho">Ortho</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="pending">Pending</string>\n    <string name=\"confirmed\">Confirmed</string>\n    <string name=\"completed\">Completed</string>\n    <string name=\"reschedule\">Reschedule</string>\n    <string name=\"book\">Book</string>\n    <string name=\"full_name\">Full Name</string>\n    <string name=\"email\">Email</string>\n    <string name=\"phone\">Phone</string>\n    <string name=\"date_of_birth\">Date of Birth</string>\n    <string name=\"gender\">Gender</string>\n    <string name=\"address\">Address</string>\n    <string name=\"not_set\">Not set</string>\n    <string name=\"medical_history\">Medical History</string>\n    <string name=\"prescriptions\">Prescriptions</string>\n    <string name=\"payment_methods\">Payment Methods</string>\n    <string name=\"settings\">Settings</string>\n    <string name=\"help_support\">Help &amp; Support</string>\n    <string name=\"logout\">Logout</string>\n</resources>\n
